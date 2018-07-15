@@ -1,0 +1,543 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc02               { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc03               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,686.25pt,2.25pt,0.00pt);
+	}
+.cc04               { /* Common */
+	font            : bold 9pt 'Arial', Helvetica, sans-serif;
+	color           : #404040;
+	}
+.cc05               { /* Common */
+	font            : 12pt 'Calibri';
+	color           : #0000ff;
+	}
+.cc06               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,6.00pt,6.00pt,0.00pt);
+	}
+.cc07               { /* Common */
+	font            : bold 9pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc08               { /* Common */
+	clip            : rect(0.00pt,19.50pt,15.75pt,0.00pt);
+	}
+.cc09               { /* Common */
+	clip            : rect(0.00pt,16.50pt,17.25pt,0.00pt);
+	}
+.cc10               { /* Common */
+	clip            : rect(0.00pt,17.25pt,17.25pt,0.00pt);
+	}
+.cc11               { /* Common */
+	font            : 8pt 'Calibri';
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc12               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc13               { /* Common */
+	border          :   0.00pt none #ffffff;
+	clip            : rect(0.00pt,6.00pt,6.00pt,0.00pt);
+	}
+.cc14               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+span#e63            { /* taekwond-momentum001036.... */
+	background      : transparent url(taekwond-momentum001036.gif) no-repeat top left;
+	position        : absolute;
+	left            :  24.00pt;
+	top             :   3.00pt;
+	width           : 692.25pt;
+	height          :2712.75pt;
+	}
+div#e62             {
+	position        : absolute;
+	left            :  27.75pt;
+	top             :   6.75pt;
+	width           : 684.75pt;
+	height          : 180.00pt;
+	}
+span#e61            { /* taekwond-momentum001035.... */
+	background      : transparent url(taekwond-momentum001035.gif) no-repeat top left;
+	position        : absolute;
+	left            :  27.75pt;
+	top             : 186.00pt;
+	width           : 683.25pt;
+	height          :2526.00pt;
+	}
+span#e60            { /* taekwond-momentum001034.... */
+	background      : transparent url(taekwond-momentum001034.gif) no-repeat top left;
+	position        : absolute;
+	left            :  27.75pt;
+	top             :2552.25pt;
+	width           : 684.75pt;
+	height          : 162.00pt;
+	}
+span#e59            { /* taekwond-momentum001033.... */
+	background      : transparent url(taekwond-momentum001033.gif) no-repeat top left;
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 185.25pt;
+	width           : 686.25pt;
+	height          :   2.25pt;
+	}
+div#e58             { /* gjbeckwith@googlemail.co... */
+	position        : absolute;
+	left            : 517.50pt;
+	top             : 369.75pt;
+	width           : 231.00pt;
+	height          :  13.50pt;
+	}
+div#e57             { /* Evanstown Community Cent... */
+	position        : absolute;
+	left            : 517.50pt;
+	top             : 287.25pt;
+	width           : 231.75pt;
+	height          :  13.50pt;
+	}
+div#e56             { /* The Sustainable Studio, ... */
+	position        : absolute;
+	left            : 517.50pt;
+	top             : 223.50pt;
+	width           : 232.50pt;
+	height          :  13.50pt;
+	}
+div#e55             { /* &nbsp;Monday night 6 to ... */
+	position        : absolute;
+	left            : 517.50pt;
+	top             : 240.00pt;
+	width           : 232.50pt;
+	height          :  13.50pt;
+	}
+div#e54             { /* Saturday 10am to 2pm */
+	position        : absolute;
+	left            : 517.50pt;
+	top             : 303.75pt;
+	width           : 232.50pt;
+	height          :  13.50pt;
+	}
+div#e53             { /* INTERNATIONAL TAEKWOND-D... */
+	position        : absolute;
+	left            : 464.25pt;
+	top             : 648.75pt;
+	width           : 279.00pt;
+	height          :  15.00pt;
+	}
+span#e52            { /* taekwond-momentum001032.... */
+	background      : transparent url(taekwond-momentum001032.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 194.25pt;
+	width           : 678.75pt;
+	height          : 783.75pt;
+	}
+span#e51            { /* taekwond-momentum001031.... */
+	background      : transparent url(taekwond-momentum001031.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  32.25pt;
+	top             : 609.00pt;
+	width           : 387.75pt;
+	height          :1938.75pt;
+	}
+span#e50            { /* taekwond-momentum001030.... */
+	background      : transparent url(taekwond-momentum001030.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  32.25pt;
+	top             : 606.75pt;
+	width           : 387.75pt;
+	height          :  24.00pt;
+	}
+div#e49             { /* Follow Us on Facebook */
+	position        : absolute;
+	left            :  48.00pt;
+	top             : 612.75pt;
+	width           : 231.75pt;
+	height          :  13.50pt;
+	}
+span#e48            { /* taekwond-momentum001029.... */
+	background      : transparent url(taekwond-momentum001029.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  38.25pt;
+	top             : 614.25pt;
+	width           :   6.00pt;
+	height          :   6.00pt;
+	}
+span#e47            { /* taekwond-momentum001028.... */
+	background      : transparent url(taekwond-momentum001028.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  32.25pt;
+	top             : 584.25pt;
+	width           : 387.75pt;
+	height          :  24.00pt;
+	}
+div#e46             { /* News Feed  */
+	position        : absolute;
+	left            :  48.00pt;
+	top             : 590.25pt;
+	width           : 231.75pt;
+	height          :  13.50pt;
+	}
+span#e45            { /* taekwond-momentum001017.... */
+	background      : transparent url(taekwond-momentum001017.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  38.25pt;
+	top             : 591.75pt;
+	width           :   6.00pt;
+	height          :   6.00pt;
+	}
+span#e44            { /* taekwond-momentum001019.... */
+	background      : transparent url(taekwond-momentum001019.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 427.50pt;
+	top             : 400.50pt;
+	width           : 280.50pt;
+	height          :  24.00pt;
+	}
+div#e43             { /* BTF British TKD Champion... */
+	position        : absolute;
+	left            : 443.25pt;
+	top             : 405.75pt;
+	width           : 231.75pt;
+	height          :  15.75pt;
+	}
+span#e42            { /* taekwond-momentum001025.... */
+	background      : transparent url(taekwond-momentum001025.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 427.50pt;
+	top             : 423.00pt;
+	width           : 280.50pt;
+	height          : 156.75pt;
+	}
+span#e41            { /* taekwond-momentum001017.... */
+	background      : transparent url(taekwond-momentum001017.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 432.75pt;
+	top             : 408.00pt;
+	width           :   6.00pt;
+	height          :   6.00pt;
+	}
+div#e40             {
+	position        : absolute;
+	left            : 428.25pt;
+	top             : 423.75pt;
+	width           : 279.75pt;
+	height          : 150.75pt;
+	}
+span#e39            { /* taekwond-momentum001019.... */
+	background      : transparent url(taekwond-momentum001019.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 427.50pt;
+	top             : 579.00pt;
+	width           : 280.50pt;
+	height          :  24.00pt;
+	}
+div#e38             { /* CLUB LINKS */
+	position        : absolute;
+	left            : 443.25pt;
+	top             : 584.25pt;
+	width           : 231.00pt;
+	height          :  12.00pt;
+	}
+span#e37            { /* taekwond-momentum001022.... */
+	background      : transparent url(taekwond-momentum001022.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 427.50pt;
+	top             : 602.25pt;
+	width           : 280.50pt;
+	height          : 105.00pt;
+	}
+span#e36            { /* taekwond-momentum001017.... */
+	background      : transparent url(taekwond-momentum001017.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 432.75pt;
+	top             : 586.50pt;
+	width           :   6.00pt;
+	height          :   6.00pt;
+	}
+span#e35            { /* taekwond-momentum001020.... */
+	background      : transparent url(taekwond-momentum001020.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 427.50pt;
+	top             : 216.00pt;
+	width           : 280.50pt;
+	height          : 175.50pt;
+	}
+span#e34            { /* taekwond-momentum001019.... */
+	background      : transparent url(taekwond-momentum001019.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 427.50pt;
+	top             : 693.75pt;
+	width           : 280.50pt;
+	height          :  24.00pt;
+	}
+div#e33             { /* TKD Momentum (Cardiff) */
+	position        : absolute;
+	left            : 443.25pt;
+	top             : 699.00pt;
+	width           : 231.00pt;
+	height          :  15.75pt;
+	}
+span#e32            { /* taekwond-momentum001018.... */
+	background      : transparent url(taekwond-momentum001018.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 427.50pt;
+	top             : 717.00pt;
+	width           : 280.50pt;
+	height          : 786.75pt;
+	}
+span#e31            { /* taekwond-momentum001017.... */
+	background      : transparent url(taekwond-momentum001017.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 432.75pt;
+	top             : 702.00pt;
+	width           :   6.00pt;
+	height          :   6.00pt;
+	}
+span#e30            { /* taekwond-momentum001014.... */
+	background      : transparent url(taekwond-momentum001014.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 427.50pt;
+	top             : 192.75pt;
+	width           : 280.50pt;
+	height          :  24.00pt;
+	}
+span#e29            { /* taekwond-momentum001014.... */
+	background      : transparent url(taekwond-momentum001014.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 427.50pt;
+	top             : 258.75pt;
+	width           : 280.50pt;
+	height          :  24.00pt;
+	}
+span#e28            { /* taekwond-momentum001014.... */
+	background      : transparent url(taekwond-momentum001014.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 427.50pt;
+	top             : 322.50pt;
+	width           : 280.50pt;
+	height          :  24.00pt;
+	}
+span#e27            { /* taekwond-momentum001013.... */
+	background      : transparent url(taekwond-momentum001013.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 436.50pt;
+	top             : 608.25pt;
+	width           :  19.50pt;
+	height          :  15.75pt;
+	}
+span#e26            { /* taekwond-momentum001012.... */
+	background      : transparent url(taekwond-momentum001012.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 436.50pt;
+	top             : 624.75pt;
+	width           :  16.50pt;
+	height          :  17.25pt;
+	}
+span#e25            { /* taekwond-momentum001011.... */
+	background      : transparent url(taekwond-momentum001011.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 436.50pt;
+	top             : 647.25pt;
+	width           :  17.25pt;
+	height          :  17.25pt;
+	}
+div#e24             { /* BRITISH TAEKWON-DO FEDER... */
+	position        : absolute;
+	left            : 464.25pt;
+	top             : 608.25pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e23             { /* WALESTKD */
+	position        : absolute;
+	left            : 464.25pt;
+	top             : 627.00pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+img#e22             { /* taekwond-momentum001010.... */
+	position        : absolute;
+	left            : 429.75pt;
+	top             : 606.75pt;
+	width           : 276.00pt;
+	height          :  16.50pt;
+	}
+img#e21             { /* taekwond-momentum001009.... */
+	position        : absolute;
+	left            : 429.75pt;
+	top             : 625.50pt;
+	width           : 276.00pt;
+	height          :  16.50pt;
+	}
+img#e20             { /* taekwond-momentum001008.... */
+	position        : absolute;
+	left            : 429.75pt;
+	top             : 668.25pt;
+	width           : 276.00pt;
+	height          :  16.50pt;
+	}
+img#e19             { /* taekwond-momentum001007.... */
+	position        : absolute;
+	left            : 429.75pt;
+	top             : 645.75pt;
+	width           : 276.00pt;
+	height          :  16.50pt;
+	}
+img#e18             { /* taekwond-momentum001006.... */
+	position        : absolute;
+	left            : 429.75pt;
+	top             : 719.25pt;
+	width           : 276.00pt;
+	height          : 792.00pt;
+	}
+img#e17             { /* taekwond-momentum001005.... */
+	position        : absolute;
+	left            : 431.25pt;
+	top             : 195.75pt;
+	width           : 274.50pt;
+	height          : 191.25pt;
+	}
+span#e16            { /* taekwond-momentum001004.... */
+	background      : transparent url(taekwond-momentum001004.gif) no-repeat top left;
+	position        : absolute;
+	left            :  33.00pt;
+	top             : 630.75pt;
+	width           : 386.25pt;
+	height          :1916.25pt;
+	}
+div#e15             {
+	position        : absolute;
+	left            :  38.25pt;
+	top             : 632.25pt;
+	width           : 240.00pt;
+	height          : 180.00pt;
+	}
+div#e14             { /* © copyright 2018 Momentu... */
+	position        : absolute;
+	left            :  24.75pt;
+	top             :2688.00pt;
+	width           : 684.75pt;
+	height          :  12.00pt;
+	}
+div#e13             { /* Club Links: */
+	position        : absolute;
+	left            :  44.25pt;
+	top             :2567.25pt;
+	width           : 231.00pt;
+	height          :  13.50pt;
+	}
+span#e12            { /* taekwond-momentum001003.... */
+	background      : transparent url(taekwond-momentum001003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  33.75pt;
+	top             :2569.50pt;
+	width           :   6.00pt;
+	height          :   6.00pt;
+	}
+div#e11             { /* BRITISH TAEKWON-DO FEDER... */
+	position        : absolute;
+	left            :  39.00pt;
+	top             :2586.00pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e10             { /* INTERNATIONAL TAEKWOND-D... */
+	position        : absolute;
+	left            :  39.00pt;
+	top             :2608.50pt;
+	width           : 279.00pt;
+	height          :  15.75pt;
+	}
+div#e9              { /* BRITISH TAEKWON-DO COUNC... */
+	position        : absolute;
+	left            :  39.00pt;
+	top             :2628.00pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e8              { /* Contact Information */
+	position        : absolute;
+	left            : 355.50pt;
+	top             :2567.25pt;
+	width           : 231.00pt;
+	height          :  14.25pt;
+	}
+span#e7             { /* taekwond-momentum001002.... */
+	background      : transparent url(taekwond-momentum001002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 345.00pt;
+	top             :2569.50pt;
+	width           :   6.00pt;
+	height          :   6.00pt;
+	}
+div#e6              { /* Mobile: */
+	position        : absolute;
+	left            : 351.00pt;
+	top             :2586.00pt;
+	width           :  46.50pt;
+	height          :  13.50pt;
+	}
+div#e5              { /* E-mail: */
+	position        : absolute;
+	left            : 351.00pt;
+	top             :2608.50pt;
+	width           :  36.00pt;
+	height          :  13.50pt;
+	}
+div#e4              { /* 07543574351 */
+	position        : absolute;
+	left            : 400.50pt;
+	top             :2586.00pt;
+	width           :  97.50pt;
+	height          :  13.50pt;
+	}
+div#e3              { /* gjbeckwith@googlemail.co... */
+	position        : absolute;
+	left            : 400.50pt;
+	top             :2608.50pt;
+	width           : 231.00pt;
+	height          :  13.50pt;
+	}
+div#e2              { /* WALESTKD */
+	position        : absolute;
+	left            :  39.00pt;
+	top             :2647.50pt;
+	width           : 191.25pt;
+	height          :  14.25pt;
+	}
+img#e1              { /* taekwond-momentum001001.... */
+	position        : absolute;
+	left            :  30.75pt;
+	top             : 192.00pt;
+	width           : 391.50pt;
+	height          : 385.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 750.00pt;
+	height          :2850.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(taekwond-momentum001b01.gif);
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
